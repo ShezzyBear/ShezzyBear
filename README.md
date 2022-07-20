@@ -11,17 +11,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love golf!
 
-<h3 align="center">Github Goodies :elephant:</h3>
-
----
-
-[![Shez's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShezzyBear&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShezzyBear&theme=holi-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShezzyBear&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <h3 align="center">Languages and Skills :books:</h3>
 
 ---
@@ -45,6 +34,17 @@
 </td></tr></table>  
 
 <br/>  
+
+<h3 align="center">Github Goodies :elephant:</h3>
+
+---
+
+[![Shez's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShezzyBear&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShezzyBear&theme=holi-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShezzyBear&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
