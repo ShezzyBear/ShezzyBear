@@ -1,6 +1,6 @@
 ![alt text](https://github.com/ShezzyBear/ShezzyBear/blob/main/header.png?raw=true)
 
-<h3 align="center">Thanks for stopping by!:</h3>
+<h3 align="center">Thanks for stopping by!</h3>
 
 ---
 
@@ -11,7 +11,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love golf!
 
-<h3 align="center">Github Goodies :elephant::</h3>
+<h3 align="center">Github Goodies :elephant:</h3>
 
 ---
 
