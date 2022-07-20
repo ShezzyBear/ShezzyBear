@@ -11,7 +11,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love golf!
 
-<h3 align="center">Github Goodies :books:</h3>
+<h3 align="center">Github Goodies :elephant:</h3>
 
 ---
 
@@ -22,7 +22,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShezzyBear&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h3 align="center">Languages and Skills :elephant:</h3>
+<h3 align="center">Languages and Skills :books:</h3>
 
 ---
 
