@@ -1,4 +1,4 @@
-/header.png
+https://github.com/ShezzyBear/ShezzyBear/blob/main/header.png?raw=true
 
 My name is Shez and thanks for stopping by!
 
