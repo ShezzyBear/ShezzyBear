@@ -1,6 +1,6 @@
-![alt text](https://github.com/ShezzyBear/ShezzyBear/blob/main/header.png?raw=true)
+![Header](https://github.com/ShezzyBear/ShezzyBear/blob/main/header.png?raw=true)
 
-<h3 align="center">Thanks for stopping by!</h3>
+<h3 align="center">About Me :writing_hand_medium_dark_skin_tone:</h3>
 
 ---
 
