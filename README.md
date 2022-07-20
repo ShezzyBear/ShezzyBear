@@ -11,7 +11,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love golf!
 
-<h3 align="center">Github Goodies :elephant:</h3>
+<h3 align="center">Github Goodies :books:</h3>
 
 ---
 
@@ -22,7 +22,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShezzyBear&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Languages and Skills  
+<h3 align="center">Languages and Skills :elephant:</h3>
+
+---
+
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
