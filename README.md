@@ -1,6 +1,7 @@
-https://github.com/ShezzyBear/ShezzyBear/blob/main/header.png?raw=true
+![alt text](https://github.com/ShezzyBear/ShezzyBear/blob/main/header.png?raw=true)
 
-My name is Shez and thanks for stopping by!
+### Thanks for stopping by!
+---
 
 - 🔭 I’m currently working on 5 Microsoft Certifications
 - 🌱 I’m currently learning AZ-104
@@ -8,6 +9,9 @@ My name is Shez and thanks for stopping by!
 - 💬 Ask me about how far I am in my learning journey!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love golf!
+
+Github Goodies :elephant:
+---
 
 [![Shez's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShezzyBear&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
