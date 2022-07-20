@@ -1,8 +1,7 @@
 ![alt text](https://github.com/ShezzyBear/ShezzyBear/blob/main/header.png?raw=true)
 
-<p align="center">
-    ### Thanks for stopping by!
-</p>
+<h3 align="center">Thanks for stopping by!:</h3>
+
 ---
 
 - 🔭 I’m currently working on 5 Microsoft Certifications
@@ -12,9 +11,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love golf!
 
-<p align="center">
-    Github Goodies :elephant:
-</p>
+<h3 align="center">Github Goodies :elephant::</h3>
+
 ---
 
 [![Shez's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShezzyBear&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
