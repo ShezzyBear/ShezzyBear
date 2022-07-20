@@ -1,4 +1,4 @@
-### Why hello there 👋
+/header.png
 
 My name is Shez and thanks for stopping by!
 
@@ -9,6 +9,6 @@ My name is Shez and thanks for stopping by!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love golf!
 
-[![Shez's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShezzyBear&show_icons=true&theme=synthwave&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Shez's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShezzyBear&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShezzyBear&theme=holi-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
