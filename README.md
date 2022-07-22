@@ -45,6 +45,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShezzyBear&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![ShezzyBear's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShezzyBear&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
