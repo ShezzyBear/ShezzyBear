@@ -4,8 +4,9 @@
 
 ---
 
-- 🔭 I’m currently working on 5 Microsoft Certifications
-- 🌱 I’m currently learning AZ-104
+- 🔭 I’m currently working on 2 Microsoft Certifications
+- 🌱 I’m currently learning AZ-400
+- 🎯 I've passed AZ-104 and LSS Yellow Belt so far
 - 🤔 I’m looking for help with ASP.Net and PowerShell
 - 💬 Ask me about how far I am in my learning journey!
 - 😄 Pronouns: He/Him
